@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e
 
 # grab environment args
 BUILD_DIR=$1
